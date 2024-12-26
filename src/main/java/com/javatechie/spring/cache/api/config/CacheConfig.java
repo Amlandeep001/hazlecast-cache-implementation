@@ -12,7 +12,6 @@ import com.hazelcast.config.MaxSizePolicy;
 @Configuration
 public class CacheConfig
 {
-
 	@Bean
 	Config configure()
 	{
@@ -26,5 +25,4 @@ public class CacheConfig
 								.setEvictionPolicy(EvictionPolicy.LRU))
 						.setTimeToLiveSeconds(2000));
 	}
-
 }
