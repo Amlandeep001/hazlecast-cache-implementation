@@ -1,12 +1,12 @@
-package com.javatechie.spring.cache.api.service;
+package com.example.spring.cache.api.service;
 
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
-import com.javatechie.spring.cache.api.dao.UserRepository;
-import com.javatechie.spring.cache.api.exception.UserNotFoundException;
-import com.javatechie.spring.cache.api.model.User;
+import com.example.spring.cache.api.dao.UserRepository;
+import com.example.spring.cache.api.exception.UserNotFoundException;
+import com.example.spring.cache.api.model.User;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;

@@ -1,4 +1,4 @@
-package com.javatechie.spring.cache.api;
+package com.example.spring.cache.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

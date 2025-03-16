@@ -1,4 +1,4 @@
-package com.javatechie.spring.cache.api.exception;
+package com.example.spring.cache.api.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,4 +1,4 @@
-package com.javatechie.spring.cache.api;
+package com.example.spring.cache.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.javatechie.spring.cache.api.controller;
+package com.example.spring.cache.api.controller;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.javatechie.spring.cache.api.model.User;
-import com.javatechie.spring.cache.api.service.UserService;
+import com.example.spring.cache.api.model.User;
+import com.example.spring.cache.api.service.UserService;
 
 import lombok.RequiredArgsConstructor;
 

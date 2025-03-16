@@ -1,4 +1,4 @@
-package com.javatechie.spring.cache.api.model;
+package com.example.spring.cache.api.model;
 
 import java.io.Serializable;
 
