@@ -16,7 +16,7 @@ public class CacheConfig
 	Config configure()
 	{
 		return new Config()
-				.setInstanceName("hazlecast-insatnce")
+				.setInstanceName("hazelcast-instance")
 				.addMapConfig(new MapConfig()
 						.setName("userCache")
 						.setEvictionConfig(new EvictionConfig()
